@@ -22,5 +22,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to crea
 
 ## ⚡ Fun Fact
 - I believe that every challenge is an opportunity to learn and grow. Whether it's debugging a tricky code or setting up a new system, I thrive on solving problems creatively.
+- Ang kalibog ang tinongdan sa kaalam - Sir Rodel/Sir John
 
 Feel free to explore my repositories and contribute to any projects that catch your interest. Let’s collaborate and innovate together!
