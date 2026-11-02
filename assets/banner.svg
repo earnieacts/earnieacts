@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-labelledby="t d">
+  <title id="t">Earnie M. Actub</title>
+  <desc id="d">Web and software developer, Malaybalay City, Bukidnon, Philippines</desc>
+  <rect width="880" height="200" rx="8" fill="#050507"/>
+  <rect x="0.5" y="0.5" width="879" height="199" rx="7.5" fill="none" stroke="#2e2e3d"/>
+  <text x="40" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8a8a99" letter-spacing="0.5">earnieacts / index</text>
+  <text x="40" y="112" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="600" fill="#f4f4f8" letter-spacing="-1">Earnie M. Actub</text>
+  <text x="40" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#a1a1b0">Web &amp; Software Developer</text>
+  <line x1="40" y1="166" x2="840" y2="166" stroke="#1e1e29"/>
+  <text x="40" y="187" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8a8a99">malaybalay city, bukidnon, philippines</text>
+  <text x="840" y="187" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#22d3ee">earnieacts.site ↗</text>
+</svg>
